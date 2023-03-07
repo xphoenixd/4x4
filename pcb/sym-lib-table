@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "F:/Documents/Keyboards/4x4/kicad_libraries/marbastlib/marbastlib-choc.kicad_sym")(options "")(descr ""))
+  (lib (name "promicro")(type "Legacy")(uri "F:/Documents/Keyboards/4x4/kicad_libraries/ProMicroKiCad/promicro_library/promicro.lib")(options "")(descr ""))
+)

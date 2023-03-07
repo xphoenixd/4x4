@@ -1,0 +1,6 @@
+[submodule "kicad_libraries/marbastlib"]
+	path = kicad_libraries/marbastlib
+	url = https://github.com/ebastler/marbastlib
+[submodule "kicad_libraries/ProMicroKiCad"]
+	path = kicad_libraries/ProMicroKiCad
+	url = https://github.com/Biacco42/ProMicroKiCad
